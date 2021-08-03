@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in learning new things, solving problems for human beings and creating useful yet simple technology.
-- 🗨️ Ask me anything about Python, Web Development or Database Management systems. I will be happy to help!
+- 🗨️ Ask me anything about Python, Web Development,Data structures or Database Management systems. I will be happy to help!
 - 🌱 I’m currently learning Django, Machine Learning among other cool stuff.😎
 
 
