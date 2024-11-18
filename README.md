@@ -12,11 +12,9 @@
 
 ### **Find me elsewhere!**
    [![Github Badge](https://img.shields.io/badge/-kritig09-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kritig09/)](https://www.github.com/kritig09/)
-   [![Gmail Badge](https://img.shields.io/badge/-kritig1309@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kritig1309@gmail.com)](mailto:kritig1309@gmail.com)
     [![Gmail Badge](https://img.shields.io/badge/-krigoe123@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krigoe123@gmail.com)](mailto:krigoe123@gmail.com)
     <a href="https://linkedin.com/in/kriti-goel-00a20b1b2" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriti-goel-00a20b1b2" height="20" /></a>
     <a href="https://www.hackerrank.com/krigoe123" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krigoe123" height="20"/></a>
-    ![Profile views](https://gpvc.arturio.dev/kritig09)
 
 
 <!---
