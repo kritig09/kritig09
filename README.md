@@ -31,8 +31,7 @@
 
 ### **Find me elsewhere!**
 
-    [![Gmail Badge](https://img.shields.io/badge/-krigoe123@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krigoe123@gmail.com)]
-    <a href="https://www.hackerrank.com/krigoe123" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krigoe123" height="20"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-krigoe123@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krigoe123@gmail.com)]
 
 
 <!---
