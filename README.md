@@ -31,7 +31,7 @@
 
 ### **Find me elsewhere!**
 
-[![Gmail Badge](https://img.shields.io/badge/-krigoe123@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krigoe123@gmail.com)]
+![Gmail Badge](https://img.shields.io/badge/-krigoe123@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krigoe123@gmail.com)
 
 
 <!---
